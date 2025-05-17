@@ -1,2 +1,3 @@
-# Rub-X Redirect
-This repository is used to redirect rub-x.org to www.rub-x.org.
+# Rub-X Homepage
+
+This is the official homepage for Rub-X, an affordable, scalable automation solution for rubber harvesting.
